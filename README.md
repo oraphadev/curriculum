@@ -19,7 +19,7 @@
 **Gálata Tecnologia** - Full Stack Web Developer.
 
 * (Feb/2019 -  Dec/2019)
-**Grupo Tiliform LTDA** - Full Stack Web Development.
+**Grupo Tiliform LTDA** - Full Stack Web Developer.
 
 * (Aug/2018 -  Feb/2019)
 **Grupo Tiliform LTDA** - Information Technology Intern.
@@ -35,26 +35,26 @@
 
 ### Technical skills
 
-### Back-end
+#### Back-end
 * PHP
 * Laravel
 * CodeIgniter
 * NodeJS
 * SocketIO
 
-### Front-end
+#### Front-end
 * VueJS
 * NuxtJS
 * JQuery
 * Bootstrap
 * Pré-processors (SASS and LESS).
 
-### Database
+#### Database
 * MySQL
 * Postegres
 * SQL Server
 
-### Others
+#### Others
 * GIT
 * Design Patterns
 * Clean Code
@@ -62,3 +62,6 @@
 * Scrum
 * API RESTFul
 * UX and Acesibility.
+
+### Articles I've written:
+* [Automação de deploy com Git e hooks](https://medium.com/@oraphadev/automa%C3%A7%C3%A3o-de-deploy-com-git-e-hooks-8a847e58d7f3)
