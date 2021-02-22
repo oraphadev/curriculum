@@ -29,7 +29,7 @@
 
 ## Projects
 
-- [Freelarte](https://www.freelarte.com.br)
+- [Linka.ai](https://www.linka.ai)
 
 ## Professional Information
 
